@@ -59,7 +59,7 @@
     {"anglais": "Content Delivery Network (CDN)", "français": "Réseau de Diffusion de Contenu (RDC)", "genre": "m", "classe": "groupe nominal"},
     {"anglais": "Cookie", "français": "Témoin de connexion", "genre": "m", "classe": "groupe nominal"},
     {"anglais": "Core dump", "français": "Vidage de mémoire", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "CPU (Central Processing Unit)", "français": "UCT (Unité Centrale de Traitement)", "genre": "f", "classe": "groupe nominal"},
+    {"anglais": "CPU (Central Processing Unit)", "français": "UTC (Unité de Traitement Centrale)", "genre": "f", "classe": "groupe nominal"},
     {"anglais": "Crawler", "français": "Butineur", "genre": "m", "classe": "groupe nominal"},
     {"anglais": "Crypto-currency", "français": "Cyber-monnaie", "genre": "m", "classe": "groupe nominal"},
     {"anglais": "Cryptocoin", "français": "Cybersou", "genre": "m", "classe": "groupe nominal"},
